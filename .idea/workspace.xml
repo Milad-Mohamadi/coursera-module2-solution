@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c077393e-61b1-49f5-8d03-7859b77802b2" name="Default Changelist" comment="" />
+    <list default="true" id="c077393e-61b1-49f5-8d03-7859b77802b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/module4-solution/SpeakGoodBye.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/SpeakHello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module4-solution/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yM6yJgSvo4BhCPmN470yXjbrSL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,13 +26,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module3-solution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module5-solution" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Projects\Javascript\coursera-modules-solution\module3-solution" />
+      <recent name="E:\Projects\Javascript\coursera-modules-solution\module5-solution" />
       <recent name="E:\Projects\Javascript\coursera-modules-solution" />
+      <recent name="E:\Projects\Javascript\coursera-modules-solution\module4-solution" />
+      <recent name="E:\Projects\Javascript\coursera-modules-solution\module3-solution" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,11 +45,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632049363093</updated>
-      <workItem from="1632049365489" duration="5665000" />
+      <workItem from="1632049365489" duration="6087000" />
+      <workItem from="1632116483006" duration="19000" />
+      <workItem from="1632116724823" duration="25000" />
+      <workItem from="1632590964606" duration="359000" />
+      <workItem from="1632648816575" duration="1892000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
